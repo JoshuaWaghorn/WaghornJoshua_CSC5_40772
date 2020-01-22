@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CodeE_IntroAssignment_A2MoreTestOutputFormat
+PROJECTNAME=CodeEA2MoreTestOutputFormat
 
 # Active Configuration
 DEFAULTCONF=Debug
