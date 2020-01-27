@@ -31,7 +31,6 @@
                 continue;
             }
             
-            
             cout << "Enter how many rooms are on floor " << floor << ":\n";
             do{
                 cin>>rooms;
