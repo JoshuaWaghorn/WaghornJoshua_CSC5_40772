@@ -15,11 +15,10 @@
     #include <iomanip>
     using namespace std;
 
-    // =============================================================
+    
 
     int main(){
-        
-        // Definitions
+
         float increase = 0;
         
         
